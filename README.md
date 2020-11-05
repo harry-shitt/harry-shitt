@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Development
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about anything
-- 📫 How to reach me: [email](harshithsalian335@gmail.com).
+- 📫 How to reach me: email me at harshithsalian335@gmail.com.
 - 😄 Pronouns: he
 -->
 
